@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ragib Gulzar</h1>
 <h3 align="center">Computer Science Student and Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragibgulzar&label=Profile%20views&color=0e75b6&style=flat" alt="ragibgulzar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragibgulzar" alt="ragibgulzar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ragibgulzar" target="blank"><img src="https://img.shields.io/twitter/follow/ragibgulzar?logo=twitter&style=for-the-badge" alt="ragibgulzar" /></a> </p>
 
@@ -12,6 +10,8 @@
 - 💬 Ask me about **Java, Front-End Development**
 
 - 📫 How to reach me **ragibgulzar@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragibgulzar&label=Profile%20views&color=0e75b6&style=flat" alt="ragibgulzar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
