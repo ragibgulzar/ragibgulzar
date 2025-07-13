@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, Front-End Development**
+- 💬 Ask me about **Java, Front-End Development, SQL**
 
 - 📫 How to reach me **ragibgulzar@gmail.com**
 
